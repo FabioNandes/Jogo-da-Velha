@@ -1,0 +1,42 @@
+
+body{
+    text-align: center;
+    background-color: #24272e;
+}
+
+header h1{
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 50px;
+}
+
+.quadrado{
+    text-align: center;
+    width: 50px;
+    border-radius: 10px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.jogador, .vencedor{
+    font-size: 30px;
+    margin-top:10px;
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+button{
+    margin-top: 10px;
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+    background: #eee;
+    cursor: pointer;
+}
