@@ -1,6 +1,6 @@
 <h1 align="center"> :joystick: Jogo da Velha :game_die:	</h1> 
 <p align="center"> 🚀 Projeto desenvolvido durante os estudos de HTML, CSS e Javascript do bootcamp Orbi Game Developer, na Digital Inovation One. Foram realizadas
-alterações no visual que tornam este projeto diferente do apresentado no tutorial.</p>
+alterações no visual que tornam este projeto diferente do apresentado no tutorial. Ele foi feito para ser jogado em duas pessoas, a opção de jogar contra a máquina está para uma implementação futura. </p>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
